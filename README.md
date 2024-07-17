@@ -4,16 +4,16 @@ This repository contains solutions and projects related to Quantum Computing, ba
 
 ## Course Structure
 
-### Practices
+### [Practices](/Prácticas)
 The course includes four main practices, each designed to cover key concepts in quantum computing:
 
-- [Practice 1: Entanglement](/Practices/Practice1). This practice explores the fundamental concept of quantum entanglement.
-- [Practice 2: Quantum Teleportation and Superdense Coding](/Practices/Practice2). This practice covers the protocols for quantum teleportation and superdense coding.
-- [Practice 3: Quantum Fourier Transform (QFT) and Draper Adder](/Practices/Practice3). This practice involves the implementation of QFT and the Draper adder circuit.
-- [Practice 4: Deutsch and Deutsch-Jozsa Algorithms](/Practices/Practice4). This practice focuses on the Deutsch and Deutsch-Jozsa algorithms, showcasing the power of quantum computation over classical methods.
+- Practice 1: Entanglement. This practice explores the fundamental concept of quantum entanglement.
+- Practice 2: Quantum Teleportation and Superdense Coding. This practice covers the protocols for quantum teleportation and superdense coding.
+- Practice 3: Quantum Fourier Transform (QFT) and Draper Adder. This practice involves the implementation of QFT and the Draper adder circuit.
+- Practice 4: Deutsch and Deutsch-Jozsa Algorithms. This practice focuses on the Deutsch and Deutsch-Jozsa algorithms, showcasing the power of quantum computation over classical methods.
 
 ### Project
-- [Lattice-Based Cryptography (LBC)](/Project): A comprehensive project that introduces the essential aspects of lattice-based cryptography, providing a basic foundation for undergraduate students.
+- [Lattice-Based Cryptography (LBC)](/Proyecto%20(LBC)): A comprehensive project that introduces the essential aspects of lattice-based cryptography, providing a basic foundation for undergraduate students.
 
 ## Tools and Technologies
 - **Qiskit**: The primary framework used for the practices, with real connections to IBM's quantum backends.
